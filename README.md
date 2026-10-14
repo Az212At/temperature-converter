@@ -2,7 +2,7 @@
 
 Конвертер температуры °C ↔ °F.
 
-**Демо:** https://ЛОГИН.github.io/temperature-converter/
+**Демо:** https://Az212At.github.io/temperature-converter/
 
 ## Стек
 
